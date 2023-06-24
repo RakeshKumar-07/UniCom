@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Place Your Firebase Configuration in server.js
+
 ## Available Scripts
 
 In the project directory, you can run:
