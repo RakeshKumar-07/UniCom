@@ -1,5 +1,5 @@
 # UniCom
-View the website here [UniCom](https://uni-com.vercel.app/)
+View the website here [UniCom](https://slack-react-clone-aeccf.web.app/login)
 
 ## How to Start
 
