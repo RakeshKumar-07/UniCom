@@ -1,5 +1,5 @@
 # UniCom
-View the website here [UniCom](https://slack-react-clone-aeccf.web.app/login)
+View the website here [UniCom](https://unicom-eab8.onrender.com/)
 
 ## How to Start
 
